@@ -1,13 +1,13 @@
 {
-  "name": "Filling_Dispatcher_JO",
+  "name": "Filing_Dispatcher_JO",
   "projectId": "252656fb-6162-4d75-ac36-ec37bc1a6e86",
   "description": "Robotic Enterprise Framework - Filling Analyzer Dispatcher Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.23.4]",
-    "UiPath.System.Activities": "[24.10.3]",
-    "UiPath.Testing.Activities": "[24.10.0]",
-    "UiPath.UIAutomation.Activities": "[24.10.0]"
+    "UiPath.Excel.Activities": "[2.24.2]",
+    "UiPath.System.Activities": "[24.10.5]",
+    "UiPath.Testing.Activities": "[24.10.3]",
+    "UiPath.UIAutomation.Activities": "[24.10.3]"
   },
   "webServices": [],
   "entitiesStores": [],

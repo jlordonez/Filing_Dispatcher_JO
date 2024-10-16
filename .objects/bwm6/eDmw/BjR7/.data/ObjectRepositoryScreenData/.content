@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="ykD_DMhIAUKi4s-kfb3Ihg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE1SURBVDhPndO7SgNBGIbhlYSgiUaFZAVPVToLe3tjbiBgl1uwE6y9gxDFC/BQqNh4wsLKJkHrkHR6BxaiazC+3/KPsLhZXAceMjPZ+fbf2VkvqPofGP7TQAEDPOMIhyn08KUAJZ0h61mjP+bYlBeslzXOYzwcV/19DF3AKbKYlHAFjb4WTUEL56AbNZHDHiIBRai0A+QsYAZuUQVPuIACW4gEzEIX3MOVWUIXtyighjX771cFSQE3WEAbJ8ggdcAitPNXGBnwiLiAa7iAS8QGaLcf0MG0BSxDZ+Qc80gM0KR2+w1bWMUudNB2oGr6GBmgd74CbdQnXu33DksoIzEgY2Xr4ga2sQnf5idQx4aNIwHhUUbk+Kq5uZj5n6OsZ3yB3u/xH+nD0+OEH9O7OlAlabDGD74Bi3rA+wUwHToAAAAASUVORK5CYII=" Selector="&lt;html app='chrome.exe' title='SEC Filings :: UiPath, Inc. (PATH)' /&gt;" Title="SEC Filings :: UiPath, Inc. (PATH)" Url="https://ir.uipath.com/financials/sec-filings">
+      <imageRef attrName="InformativeScreenshot" originalValue="48036bb01bb825550721b96c05962fff.jpg" xmlns="">02EEQ5SBbL0WvU2wfL_5f1Q</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

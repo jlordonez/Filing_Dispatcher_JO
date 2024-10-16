@@ -1,0 +1,11 @@
+﻿{
+  "Name": "SEC Filings",
+  "Type": "App",
+  "Id": "bwm6VqrpzEaZjSSDq_bClw",
+  "Reference": "x2Kba-OXJkiszvdATaLeEQ/bwm6VqrpzEaZjSSDq_bClw",
+  "Created": "2024-10-16T14:06:04.9594273Z",
+  "Updated": "2024-10-16T14:06:04.9594273Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

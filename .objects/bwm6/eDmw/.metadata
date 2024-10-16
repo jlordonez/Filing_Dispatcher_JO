@@ -1,0 +1,12 @@
+﻿{
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Id": "eDmwVRrUsUOCFRVxma7Jcg",
+  "Reference": "x2Kba-OXJkiszvdATaLeEQ/eDmwVRrUsUOCFRVxma7Jcg",
+  "ParentRef": "x2Kba-OXJkiszvdATaLeEQ/bwm6VqrpzEaZjSSDq_bClw",
+  "Created": "2024-10-16T14:06:05.0045697Z",
+  "Updated": "2024-10-16T14:06:05.0045697Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

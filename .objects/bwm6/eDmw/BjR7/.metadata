@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome: SEC Filings :: UiPath, Inc. (PATH)",
+  "Type": "Screen",
+  "Id": "BjR7rOz9OEWB0nif4dM0Nw",
+  "Reference": "x2Kba-OXJkiszvdATaLeEQ/BjR7rOz9OEWB0nif4dM0Nw",
+  "ParentRef": "x2Kba-OXJkiszvdATaLeEQ/eDmwVRrUsUOCFRVxma7Jcg",
+  "Created": "2024-10-16T14:06:05.0236205Z",
+  "Updated": "2024-10-16T14:06:05.0236205Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
