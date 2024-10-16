@@ -1,5 +1,12 @@
 {
-  "Tags": [],
+  "Tags": [
+    {
+      "Key": "Filing"
+    },
+    {
+      "Key": "Dispatcher"
+    }
+  ],
   "SeparateRuntimeDependencies": true,
   "IncludeSources": true
 }
